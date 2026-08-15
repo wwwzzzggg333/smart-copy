@@ -1,0 +1,9 @@
+# 编辑器历史与临时文件
+.history/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Node 依赖
+node_modules/
