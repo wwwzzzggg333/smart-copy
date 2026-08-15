@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Smart Copy - 下载路径复制",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "快速复制下载文件的完整路径或文件名",
   "permissions": [
     "downloads",
